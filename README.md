@@ -20,7 +20,7 @@ Criação de interfaces gráficas com uso do Java. Tratamento de eventos para in
 
 ## Conteúdo
 1. Criação de interfaces gráficas usando as JFC/Swing;
-2. Tratamento de eventos para interfaces gráficas
+2. Tratamento de eventos para interfaces gráficas;
 3. Threads e concorrência em Java;
 4. Sistemas de Banco de Dados e Introdução ao JDBC.
 
