@@ -18,17 +18,17 @@ Criação de interfaces gráficas com uso do Java. Tratamento de eventos para in
 - Desenvolver aplicações utilizando threads;
 - Desenvolver aplicações utilizando Banco de Dados e JDBC. 
 
-##Conteúdo
+## Conteúdo
 1. Criação de interfaces gráficas usando as JFC/Swing;
 2. Tratamento de eventos para interfaces gráficas
 3. Threads e concorrência em Java;
 4. Sistemas de Banco de Dados e Introdução ao JDBC.
 
-##Ferramentas
+## Ferramentas
 - NetBeans (IDE)  8.2 (All supported technologies) (https://netbeans.org/downloads/)
 - MySQL Community Server 5.7.21 (https://dev.mysql.com/downloads/mysql/)
 
-##Referência Bibliográfica
+## Referência Bibliográfica
 - DEITEL, H. M.; DEITEL, P. J.. Java: Como programar. 8a. ed. Rio de Janeiro: Pearson, 2010.
 
 
