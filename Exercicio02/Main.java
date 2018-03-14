@@ -152,9 +152,10 @@ public class Main {
                 
                 // EXERCÍCIO: CALCULAR AS VENDAS DO DIA
                 JOptionPane.showMessageDialog(null, "EXERCÍCIO: \n"
-                        + "1. PREPARA MÓDULO PARA CALCULAR AS VENDAS DO DIA; \n"
+                        + "1. DESENVOLVER MÓDULO PARA CALCULAR AS VENDAS DO DIA; \n"
                         + "2. PREPARAR PELO MENOS UMA JANELA DE CADASTRO UTILIZANDO O JFRAME. \n"
-                        + "3. REVISAR E SE POSSÍVEL MELHORAR O CÓDIGO DESENVOLVIDO.");
+                        + "3. QUANDO UM CARRO FOR VENDIDO, DEVE SER RETIRADO DA LISTA.\n"
+                        + "4. REVISAR E SE POSSÍVEL MELHORAR O CÓDIGO DESENVOLVIDO.");
                 
             }
 
